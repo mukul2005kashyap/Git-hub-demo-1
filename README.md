@@ -1,5 +1,4 @@
 # Streamlit tutorial
-
-This is my first git hub repositery(Streanlit Tutorial)
+This is my first git hub repositery(Streamlit Tutorial)
 <br>
 author- mukul kashyap
